@@ -24,6 +24,8 @@
 
 ![Predict path](mdimg/3.jpg "train data set path")
 
+เปลี่ยน path รูป Test ของ TA ที่ ตัวแปร mypath หัวข้อ TA Test Data
+
 ---
 
 
@@ -35,6 +37,8 @@
 เปลี่ยน path รูปที่จะทำการ predict ที่ ตัวแปร path หัวข้อ Predict Section
 
 ![Prediction path](mdimg/5.jpg "train data set path")
+
+เปลี่ยน path รูป Test ของ TA ที่ ตัวแปร mypath หัวข้อ TA Test Data
 
 ---
 
